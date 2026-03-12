@@ -80,11 +80,6 @@ au **Conservatoire Nationale des Arts et Métiers.**
   - Configuration de connexions VPN  
   - Installation de logiciels et maintenance générale  
 
-### 2024 – Vente / Aide à la vente
-
-- Conseil et vente de produits à la clientèle  
-- Mise en place et réapprovisionnement des stocks
-
 ---
 
 ## 🛠️ Compétences
