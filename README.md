@@ -1,4 +1,4 @@
-# Salut, je suis Meriem MEZDARI
+# Meriem MEZDARI
 
 Étudiante en **Diplôme de Spécialisation Professionelle Intégrateur Web (BAC+1)**  
 au **Conservatoire Nationale des Arts et Métiers.**  
