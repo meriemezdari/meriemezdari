@@ -47,7 +47,7 @@ au **Conservatoire Nationale des Arts et Métiers.**
 - [TP Projet PHP/MySQL](https://github.com/meriemezdari/TP-Projet-PHP) Gestion d’un formulaire d’inscription  
 
 **Projet de Développement Web** 
-[– Site Web “Boulangerie du Village”]([https://github.com/tonpseudo/boulangerie-frontend](https://github.com/meriemezdari/Projet-La-Boulangerie-du-Village-BDD-MySQL))
+[Site Web “Boulangerie du Village”](https://github.com/meriemezdari/Projet-La-Boulangerie-du-Village-BDD-MySQL)
 - **Frontend** : HTML, CSS, JavaScript  
 - **Backend** : PHP pour gestion utilisateurs, produits et commandes  
 - **Base de données** : MySQL (stockage des utilisateurs, produits, commandes)  
