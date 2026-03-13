@@ -32,20 +32,22 @@ au **Conservatoire Nationale des Arts et Métiers.**
 ### CNAM – DSP Intégrateur Web (BAC+1)
 
 **Projets principaux :**
-- **Projet Design Graphique** (moodboard typographique, couleurs, images)
-- **Projet Site Internet** (HTML/CSS/Responsive Design)
-- **Jeu Juste Prix en C**
-- **Projet Design Eco-Conception Figma** (Persona/Wireframe/charte graphique/UI et UX)
-- **Création d’un site WordPress** avec FileZilla et PHP  
-- **Branding & supports de communication** : GIMP, Inkscape  
-- **Mini-projet Figma** : Auto Layout & Components  
-- **Projet JS – Gestionnaire de tâches** : planning et recette de la semaine  
-- **Projet JS – Gestion de livres** : filtres : recherche et tri  
+- [Projet Design Graphique](https://github.com/meriemezdari/Projet-Design-Graphique) – Moodboard typographique, couleurs, images
+- [Projet Site Internet](https://github.com/meriemezdari/Projet-INOV-TECH) – HTML/CSS/Responsive Design
+- [Projet Aeroglid Mission](https://github.com/meriemezdari/Projet-Aeroglid-Mission)
+- [Jeu Juste Prix en C](https://github.com/meriemezdari/Projet-Juste-Prix-en-C)
+- [Projet Design Eco-Conception Figma](https://github.com/meriemezdari/Projet-Design-Eco-Conception-Figma) – Persona, Wireframe, UI/UX
+- **Création d’un site WordPress** avec FileZilla et PHP
+- [Branding & supports de communication](https://github.com/meriemezdari/Branding-Supports-de-Communication)
+- [Mini-projet Figma](https://github.com/meriemezdari/Mini-projet-Figma---Auto-Layout-Components) – Auto Layout & Components
+- [Projet JS – Gestionnaire de tâches](https://github.com/meriemezdari/Projet-Gestionnaire-de-Taches-JS)
+- [Projet JS – Gestion de livres](https://github.com/meriemezdari/Projet-Application-Web-JavaScript)
 
 **Projets PHP / MySQL :**  
-- **TP Projet PHP/MySQL** : Gestion d’un formulaire d’inscription  
+- [TP Projet PHP/MySQL](https://github.com/meriemezdari/TP-Projet-PHP) Gestion d’un formulaire d’inscription  
 
-**Projet de Développement Web – Site Web “Boulangerie du Village”**  
+**Projet de Développement Web** 
+[– Site Web “Boulangerie du Village”]([https://github.com/tonpseudo/boulangerie-frontend](https://github.com/meriemezdari/Projet-La-Boulangerie-du-Village-BDD-MySQL))
 - **Frontend** : HTML, CSS, JavaScript  
 - **Backend** : PHP pour gestion utilisateurs, produits et commandes  
 - **Base de données** : MySQL (stockage des utilisateurs, produits, commandes)  
