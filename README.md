@@ -1,7 +1,6 @@
 # Meriem MEZDARI
 
-Étudiante en **Diplôme de Spécialisation Professionelle Intégrateur Web (BAC+1)**  
-au **Conservatoire Nationale des Arts et Métiers.**  
+Étudiante en 2e année de **BUT MMI à l’IUT Sorbonne Paris Nord de Bobigny**, parcours **Développement Web & Dispositifs Interactifs**. Je recherche un **stage de 3 mois**, du **5 avril au 25 juin 2027**, dans le domaine du numérique. Ma formation me permet de développer des compétences dans plusieurs domaines, notamment le développement web, l’intégration, la conception d’interfaces et les dispositifs interactifs. Je souhaite aujourd’hui mettre mes connaissances en pratique dans un environnement professionnel.  
 
 ---
 
