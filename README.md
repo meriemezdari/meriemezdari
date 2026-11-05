@@ -7,6 +7,7 @@ au **Conservatoire Nationale des Arts et Métiers.**
 
 ## 🎓 Formations
 
+- **2027** – BUT MMI (Métiers du Multimédia et de l'Internet) - Parcours Développement Web & Dispositifs Interactifs, IUT Sorbonne Paris Nord Bobigny
 - **2026** – Diplôme Spécialisation Professionnelle Intégrateur Web  
   Conservatoire National Arts et Métiers, Paris
 - **2025** – Licence Mathématiques et Informatique  
@@ -15,15 +16,6 @@ au **Conservatoire Nationale des Arts et Métiers.**
   Université d’Évry Paris-Saclay
 - **2023** – Baccalauréat Spécialité Mathématiques / Physique-Chimie / NSI  
   Lycée Jean Rostand, Villepinte
-
----
-
-## 🎯 Projets futurs / Formation à venir
-
-- **2026-2027** – DEUST Informatique d’Organisation et Systèmes d’Information (IOSI)  
-  Parcours **Technicien Développement, Sécurité et Exploitation**  
-  - Diplôme d’Études Universitaires Scientifiques et Techniques (DEUST) en alternance  
-  - Objectif : renforcer mes compétences en développement, sécurité informatique et exploitation de systèmes
 
 ---
 
