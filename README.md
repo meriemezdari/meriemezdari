@@ -7,8 +7,8 @@ au **Conservatoire Nationale des Arts et Métiers.**
 
 ## 🎓 Formations
 
-- **2027** – BUT MMI (Métiers du Multimédia et de l'Internet) - Parcours Développement Web & Dispositifs Interactifs
-  IUT Sorbonne Paris Nord, Bobigny
+- **2027** – BUT MMI (Métiers du Multimédia et de l'Internet) - Parcours Développement Web & Dispositifs Interactifs,
+  IUT Sorbonne Paris Nord Bobigny
 - **2026** – Diplôme Spécialisation Professionnelle Intégrateur Web  
   Conservatoire National Arts et Métiers, Paris
 - **2025** – Licence Mathématiques et Informatique  
